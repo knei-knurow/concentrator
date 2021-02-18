@@ -1,4 +1,4 @@
-# UART/SPI/I2C concentrator
+# UART/SPI/I2C Concentrator
 UART/SPI/I2C Concentrator for Knurów Rover
 
 
